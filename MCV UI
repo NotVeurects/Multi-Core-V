@@ -3370,4 +3370,4 @@ function library:New(data)
     return lib
 end
 
-return library
+return library, UiConfig
